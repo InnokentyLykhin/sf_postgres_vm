@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/test":{"guestpath":"/home/vagrant/test","hostpath":"O:/vagrantvm/sf_postgres_vm","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"O:/vagrantvm/sf_postgres_vm","disabled":false,"__vagrantfile":true}}}
